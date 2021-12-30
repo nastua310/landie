@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+body{
+font-family: 'Roboto', sans-serif;
+}
+.header-wrapper{
+    width: 1800px;
+    margin: 0 auto;
+    background-image: url(../img/designer_1.png);
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+.header{
+    width: 1400px;
+    height: 1103px;
+    text-align: center;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.logo{
+    width: 90px;
+}
+.nav-link{
+    padding-left: 60px;
+    font-size: 16px;
+    font-weight: 400;
+    text-decoration: none;
+    color: #505F98;
+}
+.header-btn{
+    width: 160px;
+    height: 26px;
+    font-size: 12px;
+    border: none;
+    background-color: #111B47;
+    color: white;
+}
+.welcome{
+    margin-top: 260px;
+}
+.welcome-text{
+    text-align: left;
+    width: 540px;
+}
+.welcome-text{
+    text-align: left;
+}
+h1{
+    font-weight: 500;
+    font-size: 50px;
+    margin-bottom: 20px;
+    color: #111B47;
+}
+.welcome-description{
+    font-size: 18px;
+    color: #505F98;
+}
+.welcome-buttons{
+     margin-top: 69px;
+    text-align: left;
+}
+.purchase-btn{
+    margin-right: 30px;
+    font-size: 16px;
+    width: 189px;
+    height: 36px;
+    font-weight: 500;
+    border: none;
+    background-color: #111B47;
+    color: white;
+}
+.learn-btn{
+    font-size: 16px;
+    width: 189px;
+    height: 36px;
+    font-weight: 500;
+    border: #111B47 solid;
+    background-color: white;
+}
+.wrapper{
+    width: 1800px;
+    margin: 0 auto;
+}
+.section-about{
+    background-image: url(../img/girl.png);
+    background-repeat: no-repeat;
+    background-position: right top;
+    height: 1150px;
+    background-size: 40%;
+}
+.about{
+    text-align: left;
+    width: 540px;
+    padding-top: 260px;
+    padding-left: 200px;
+}
+h2{
+    font-weight: 500;
+    font-size: 50px;
+    margin-bottom: 20px;
+    color: #111B47;
+}
+.text-about{
+    font-size: 18px;
+    color: #505F98;
+    text-align: left;
+}
+.row{
+    display: flex;
+    justify-content: left;
+    text-align: left;
+    width: 800px;
+    padding-left: 200px
+}
+img{
+    width: 80px;
+}
+.column-itom{
+    margin-right: 80px;
+}
+.lorem{
+    font-weight: 900;
+    color: #111B47;
+}
